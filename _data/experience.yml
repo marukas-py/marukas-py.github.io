@@ -7,7 +7,12 @@
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Scanning buildings (3D laser scanner)
+    Creating digital twins out of the point clouds
+    Establishing start-up organisation;
+    Strategic planning;
+    Business operations optimisation;
+    Customer relationship building;
 
 - layout: left
   company: Exigo A/S, Aarhus, Denmark
