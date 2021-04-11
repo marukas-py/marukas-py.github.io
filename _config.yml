@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Marius Vaidelis
-title: Data Science Student
+title: Data Science & Machine Learning student at Integrify
 email: mariusvaidelis@gmail.com
 phone: +45 53 77 00 48
 cv   : "resume.pdf"
@@ -27,13 +27,7 @@ github_username:  marukas-py
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    - Tables
-    - Links
-    - Images
+  Passionate digital built environment and Building Information Modelling (BIM) professional with 4+ years of experience. Have knowledge and experience in implementing BIM technologies, methodologies and Common Data Environment (CDE). Have a great passion for Planning and Scheduling at work and in personal life. Able to learn quickly by managing information into smaller chunks, have a scientific way of thinking and decision making.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
