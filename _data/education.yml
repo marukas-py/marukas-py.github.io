@@ -17,7 +17,7 @@
   description: | # this will include new lines to allow paragraphs
     Description of qualification
 
-    - layout: left
+- layout: left
   name: VIA University College, Denmark
   dates: 2009 - 2014
   qualification: Architectural Technology & Construction Management 
