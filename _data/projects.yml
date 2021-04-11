@@ -1,9 +1,9 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: First Integrify Project (comming)
+  link: https://github.com/marukas-py
+  github: https://github.com/marukas-py
   quote: >
-    Short overview of the project (optional)
+    The next project will appear here 
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Description ...
