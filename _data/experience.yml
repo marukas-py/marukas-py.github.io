@@ -1,7 +1,7 @@
 # Experience template
 - layout: left
   company: Dit X Hjem, Copenhagen, Denmark
-  link: Link to company (optional)
+  link: https://ditxhjem.dk
   job_title: BIM Manager
   dates: February 2020 - December 2020
   quote: >
@@ -11,7 +11,7 @@
 
 - layout: left
   company: Exigo A/S, Aarhus, Denmark
-  link: Link to company (optional)
+  link: https://exigo.dk
   job_title: Collaboration Project
   dates: February 2019 - July 2019
   quote: >
@@ -21,9 +21,19 @@
 
 - layout: left
   company: Jungtiniai Projektai, Vilnius, Lithuania
-  link: Link to company (optional)
+  link: http://www.jpro.lt
   job_title: BIM Manager
   dates: December 2016 - February 2018
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+
+- layout: left
+  company: Bjarne Frost Design Office, Aarhus, Denmark
+  link: http://bjarnefrost.com
+  job_title: Constructing Architect
+  dates: February 2013 - June 2013
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
