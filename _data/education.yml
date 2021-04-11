@@ -7,3 +7,12 @@
     Description
   description: | # this will include new lines to allow paragraphs
     Description of qualification
+
+- layout: left
+  name: Northumbria University
+  dates: 2014 - 2016
+  qualification: Building Design Management & Building Information Modelling (BIM) MSc
+  quote: >
+    Description
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
